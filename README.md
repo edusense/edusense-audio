@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# edusense-audio
+# Edusense-audio
 Standalone Audio Repository for the EduSense project.
 =======
 # EduSense: Practical Classroom Sensing at Scale
